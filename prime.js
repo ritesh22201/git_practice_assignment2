@@ -14,7 +14,7 @@ function checkprime(number){
 let answer = checkprime(23);
 
 if(answer==false){
-  console.log("Prime Number);
+  console.log("Prime Number");
 }else{
   console.log("Not a Prime Number");
 }
