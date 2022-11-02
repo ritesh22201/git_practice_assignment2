@@ -13,7 +13,7 @@ function checkprime(num){
 let ans = checkprime(23);
 
 if(ans==false){
-  console.log("Prime Number);
+  console.log("Prime Number");
 }
 else{
   console.log("Not a Prime Number");
